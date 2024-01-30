@@ -9,11 +9,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/sachintha-dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachintha-dilshan" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/sachintha-dilshan" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="sachintha-dilshan" height="50" width="50" /></a>
 <a href="https://fb.com/sachinthadilshan.dilshan1030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachinthadilshan.dilshan1030" height="50" width="50" /></a>
-<a href="https://instagram.com/sachintha__dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachintha__dilshan" height="50" width="50" /></a>
+<a href="https://instagram.com/sachintha__dilshan" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" alt="sachintha__dilshan" height="50" width="50" /></a>
 <a href="https://www.behance.net/sachintha_dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sachintha_dilshan" height="50" width="50" /></a>
-<a href="https://www.youtube.com/c/@sachintha__dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sachintha__dilshan" height="50" width="50" /></a>
+<a href="https://www.youtube.com/c/@sachintha__dilshan" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="@sachintha__dilshan" height="50" width="50" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
